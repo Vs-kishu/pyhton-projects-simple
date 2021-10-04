@@ -1,2 +1,3 @@
 # pyhton-projects
- some simple projects
+ projects by using python skills
+ 
